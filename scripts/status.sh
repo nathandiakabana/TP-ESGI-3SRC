@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-echo "Statut : OK"
+echo "Statut : Pas OK "
+# modification de status par nathan depuis nathan2
